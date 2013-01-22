@@ -1,4 +1,4 @@
-Source: seafile
+Source: seafile-client
 Section: net
 Priority: extra
 Maintainer: Lingtao Pan <freeplant@gmail.com>
@@ -15,7 +15,7 @@ Build-Depends:
 Standards-Version: 3.9.4
 Homepage: http://seafile.com
 
-Package: seafile
+Package: seafile-client
 Architecture: any
 Depends:
 	${shlibs:Depends},
